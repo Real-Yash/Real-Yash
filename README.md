@@ -2,7 +2,7 @@
 - I’m interested in AI and YouTube
 - I’m currently learning Dart & flutter 
 - You can cheakout my YouTube at
-YouTube.com/c/Hyperyuva
+     www.youtube.com/c/Hyperyuva
 - How to reach me just text me! 
 
 <!---
