@@ -1,10 +1,8 @@
 - Hi, I’m @hyperyuva
 - I’m interested in AI and YouTube
 - I’m currently learning Dart & flutter 
-- You can cheakout my 
-<head>
-  <link rel="Youtube" href="https://youtube.com/c/Hyperyuva">
-</head>
+- You can cheakout my YouTube at
+YouTube.com/c/Hyperyuva
 - How to reach me just text me! 
 
 <!---
