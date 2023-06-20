@@ -1,6 +1,6 @@
 - Hi, I’m @hyperyuva
-- I’m interested in AI and YouTube
-- I’m currently learning Dart & flutter 
+- I’m interested in AI and Data Science
+- I’m currently learning python for DS
 - You can cheakout my YouTube at
      www.youtube.com/c/Hyperyuva
 - How to reach me just text me! 
