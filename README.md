@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Databases engineering & machine learning algorithm**
 
-- 💬 Ask me about **Full stalk dev , node ,json, react & Python**
+- 💬 Ask me about **Cpp ,node ,json, react & Python**
 
 - 📫 How to reach me **Yashpatil.pvt@gmail.com**
 
