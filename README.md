@@ -11,7 +11,7 @@
 </div>
 
 <div align="right" >
-<img align="right" height="200" src="https://github.com/Real-Yash/Real-Yash/blob/main/hyperyuva.gif"  />
+<img align="right" height="200" src="https://github.com/Real-Yash/Real-Yash/blob/main/hyperyuva.gif" />
 </div>
 </div>
 
