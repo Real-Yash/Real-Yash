@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Yash and I'm a Software engineer, from India </h2>
 
 ###
+
 <div> 
   
 <div align="left">
@@ -10,8 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="right" >
-<img align="right" height="200" src="https://github.com/Real-Yash/Real-Yash/blob/main/hyperyuva.gif" />
+<div align="right">
+<img align="right" height="200" src="https://github.com/Real-Yash/Real-Yash/blob/main/hyperyuva.gif"/>
 </div>
 </div>
 
@@ -58,14 +59,6 @@
 
 ###
 
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://github.com/Real-yash/Real-yash/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
