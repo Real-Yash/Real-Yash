@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://github.com/Real-yash/Real-yash/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
 
 ###
