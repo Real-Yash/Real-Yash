@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/-yashpatil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/yashpatilpvt" target="_blank">
+  <a href="https://x.com/Real_Yashh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/heyy_yash/" target="_blank">
