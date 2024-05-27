@@ -49,7 +49,7 @@
   <a href="https://www.instagram.com/heyy_yash/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/yashpatil.pvt" target="_blank">
+  <a href="https://www.facebook.com/RealYashh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
   <a href="https://discord.gg/saVy8ZdPXE" target="_blank">
