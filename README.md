@@ -12,7 +12,7 @@
 </div>
 
 <div align="right">
-<img align="right" height="200" src="https://github.com/Real-Yash/Real-Yash/blob/main/hyperyuva.gif"/>
+      <img align="right" height="200" style="float: left; padding: 15px 5px 10px 20px;" src="https://github.com/Real-Yash/Real-Yash/blob/main/hyperyuva.gif" />
 </div>
 </div>
 
