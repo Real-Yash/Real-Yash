@@ -9,6 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+<br clear="both">
+
 <img align="left" height="150" src="hyperyuva.webp" />
 
 ###
