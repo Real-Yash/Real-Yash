@@ -76,3 +76,10 @@ OLD
 <img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Real-yash/count.svg?"  />
+</div>
+
+###
+
