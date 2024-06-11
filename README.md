@@ -1,21 +1,21 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+OLD
+
+<h2 align="left">Hi 👋! My name is Yash and I'm a Software engineer, from India</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="160" style = "padding: 20px 50px 30px 10px" src="hyperyuva.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
@@ -50,7 +50,6 @@
 ###
 
 <br clear="both">
-<br>
 
 <div align="left">
   <a href="https://www.youtube.com/c/hyperyuva" target="_blank">
@@ -75,11 +74,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Real-yash/count.svg?"  />
-</div>
 
 ###
