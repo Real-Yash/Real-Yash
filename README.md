@@ -1,5 +1,3 @@
-OLD
-
 <h2 align="left">Hi 👋! My name is Yash and I'm a Software engineer, from India</h2>
 
 ###
@@ -11,7 +9,7 @@ OLD
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="160" style = "padding: 20px 50px 30px 10px" src="hyperyuva.gif"  />
+<img align="left" height="150" src="hyperyuva.webp" />
 
 ###
 
