@@ -72,7 +72,7 @@
 
 ###
 
-<br clear="both">
+<h3 align="center">Watch my work being devoured by a snake 🐍</h3>
 
 <img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
 
