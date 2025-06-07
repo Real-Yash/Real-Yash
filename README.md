@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Yash and I'm a CS Student, from India</h2>
+    <h3 align="left">AI & ML | Data Science @ IIT Madras</h3>                                                                  
 
 ###
 
