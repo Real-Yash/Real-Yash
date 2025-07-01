@@ -1,25 +1,12 @@
-<h2 align="center">Hi! My name is Yash and I'm a ML Student, from India</h2>
-<h4 align="center">🧠 AI | Machine Learning | Data Science @ IIT Madras</h4>                                                              
+<h2 align="left">Hi! My name is Yash and I'm a ML Student, from India</h2>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-##
-
-<br clear="both">
-
-<img align="left" height="150" src="hyperyuva.webp" />
+<img align="left" height="165" src="hyperyuva.webp" />
 
 ###
 
 <div align="left">
+  <h2>langs</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
@@ -29,6 +16,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
+  <img width="14" />
+
+  <img src="https://skillicons.dev/icons?i=arch" height="32" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=vim" height="32" alt="git logo"  />
+  <img width="14" />
+
 </div>
 
 ####
@@ -53,28 +47,47 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" /> 
+  <img width="14" /> 
+  <!-- TensorFlow -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="TensorFlow" /> 
+  <img width="14" /> 
+  <!-- PyTorch --> 
+  <img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="PyTorch" /> 
+  <img width="14" /> 
+  <!-- Scikit-learn --> 
+  <img src="https://skillicons.dev/icons?i=sklearn" height="32" alt="scikit-learn" /> 
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="tensorflow" />
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" /> 
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="pytorch" />
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas" /> 
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="32" alt="sklearn" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="32" alt="jupyter" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="32" alt="pandas" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="32" alt="numpy" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="32" alt="matplotlib" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=seaborn" height="32" alt="seaborn" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=huggingface" height="32" alt="huggingface" />
+  <!-- NumPy --> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="NumPy" /> 
+  <img width="14" /> 
+  <!-- Hugging Face -->
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="32" alt="Hugging Face" />
+  <img width="14" /> 
 </div>
 
-<br />
+##
+
+
+<h4> I'm Yash Patil. a student of Data Science @ IIT Madras </h4>
+<h6></h6>A Passionate about Artificial Intelligence (AI) and Machine Learning (ML). Currently learning advanced AI/ML with Python</6>
+
+
+##
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
