@@ -1,123 +1,114 @@
-<h2 align="left">Hi! My name is Yash and I'm a ML Student, from India</h2>
+<h1 align="center">Hi 👋, I'm Yash Patil</h1>
+<h3 align="center">A Data Science Student @ IIT Madras | Passionate about AI/ML</h3>
 
+---
 
-<img align="left" height="165" src="hyperyuva.webp" />
+<table>
+  <tr>
+    <td>
 
-###
+<ul>
+  <li>🎓 Pursuing Data Science at <strong>IIT Madras</strong></li>
+  <li>🤖 Passionate about <strong>Artificial Intelligence & Machine Learning</strong></li>
+  <li>🐍 Currently learning advanced <strong>Python + AI/ML frameworks</strong></li>
+  <li>🎥 Content Creator at <a href="https://www.youtube.com/c/hyperyuva" target="_blank">HyperYuva</a></li>
+</ul>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img width="14" />
+</td>
+<td align="right">
+  <img src="hyperyuva.webp" height="55" alt="Yash Avatar" />
+</td>
+  </tr>
+</table>
 
-  <img src="https://skillicons.dev/icons?i=arch" height="32" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vim" height="32" alt="git logo"  />
-  <img width="14" />
+---
 
-</div>
+### 💻 Languages & Tools
 
-####
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
-
-</div>
-
-###
+#### Programming & Development
 
 <div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" /> 
-  <img width="14" /> 
-  <!-- TensorFlow -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="TensorFlow" /> 
-  <img width="14" /> 
-  <!-- PyTorch --> 
-  <img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="PyTorch" /> 
-  <img width="14" /> 
-  <!-- Scikit-learn --> 
-  <img src="https://skillicons.dev/icons?i=sklearn" height="32" alt="scikit-learn" /> 
-  <img width="14" />
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" /> 
-  <img width="14" />
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas" /> 
-  <img width="14" />
-  <!-- NumPy --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="NumPy" /> 
-  <img width="14" /> 
-  <!-- Hugging Face -->
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="32" alt="Hugging Face" />
-  <img width="14" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
 </div>
 
-##
+#### Tools & IDEs
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vim" height="32" alt="Vim" />
+  <img src="https://skillicons.dev/icons?i=arch" height="32" alt="Arch Linux" />
+</div>
 
-<h4> I'm Yash Patil. a student of Data Science @ IIT Madras </h4>
-<h6></h6>A Passionate about Artificial Intelligence (AI) and Machine Learning (ML). Currently learning advanced AI/ML with Python</6>
+#### Web Development Stack (MERN)
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" />
+</div>
 
-##
+#### AI/ML Toolkit
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="32" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="NumPy" />
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&show_icons=true&theme=dark&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
 </div>
 
-###
+---
+
+### 🔗 Connect with Me
 
 <div align="center">
   <a href="https://www.youtube.com/c/hyperyuva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=&labelColor=&style=flat" height="36" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&style=flat" height="36" />
   </a>
   <a href="https://www.linkedin.com/in/-yashpatil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=flat" height="36" />
   </a>
-    <a href="https://www.instagram.com/yashbytes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="36" alt="instagram logo"  />
+  <a href="https://www.instagram.com/yashbytes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&style=flat" height="36" />
   </a>
   <a href="https://x.com/yashbytes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="36" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&style=flat" height="36" />
   </a>
   <a href="https://www.facebook.com/yashbytes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="36" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&style=flat" height="36" />
   </a>
 </div>
 
-##
+---
 
-<h3 align="center">Watch my work being devoured by a snake 🐍</h3>
+### 🐍 Watch My Contributions Slither
 
-<img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Real-yash/count.svg?"  />
-</div>
+### 👁 Profile Views
 
-###
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Real-yash/count.svg?" />
+</p>
