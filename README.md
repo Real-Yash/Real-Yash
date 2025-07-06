@@ -5,22 +5,21 @@
 
 <table>
   <tr>
-    <td>
-
-<ul>
-  <li>🎓 Pursuing Data Science at <strong>IIT Madras</strong></li>
-  <li>🤖 Passionate about <strong>Artificial Intelligence & Machine Learning</strong></li>
-  <li>🐍 Currently learning  <strong>Deep Learning & NLP </strong></li>
-  <li>🚀 Scaling StartUP <a href="https://www.youtube.com/c/hyperyuva" target="_blank">HyperYuva</a> and building <strong>ROBUST ERP</strong></li>
-  <li>🎥 Tech & Gaming Content Creator at <a href="https://www.youtube.com/c/hyperyuva" target="_blank">Youtube</a> (Fun) </li>
-</ul>
-
-</td>
-<td align="right">
-  <img src="hyperyuva.webp" style="height:200px; margin: 50px;" alt="Yash Avatar" />
-</td>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <ul>
+        <li>🎓 Pursuing Data Science at <strong>IIT Madras</strong></li>
+        <li>🤖 Passionate about <strong>Artificial Intelligence & Machine Learning</strong></li>
+        <li>🐍 Currently learning <strong>Deep Learning & NLP</strong></li>
+        <li>🚀 Scaling StartUP <a href="https://www.youtube.com/c/hyperyuva" target="_blank">HyperYuva</a> and building <strong>ROBUST ERP</strong></li>
+        <li>🎥 Tech & Gaming Content Creator at <a href="https://www.youtube.com/c/hyperyuva" target="_blank">YouTube</a> (Fun)</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="hyperyuva.webp" alt="Yash Avatar" style="height:180px; max-width:100%; border-radius: 8px;" />
+    </td>
   </tr>
 </table>
+
 
 ---
 
