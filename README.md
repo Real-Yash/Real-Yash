@@ -23,6 +23,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&show_icons=true&theme=dark&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
+</div>
+
+---
+
 ### 💻 Languages & Tools
 
 #### Programming & Development
@@ -67,30 +76,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:48px; margin: 4px;" alt="NumPy" />
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&show_icons=true&theme=dark&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
-</div>
-
----
-
-### 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://www.youtube.com/c/hyperyuva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000 "style="height:48px; margin: 4px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/-yashpatil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5" style="height:48px; margin: 4px;"/>
-  </a>
-  <a href="https://x.com/yashbytes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2" style="height:48px; margin: 4px;"  />
-  </a>
-</div>
 
 ---
 
@@ -98,12 +84,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 👁 Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Real-yash/count.svg?" />
 </p>
