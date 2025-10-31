@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yash Patil</h1>
-<h3 align="left">A Data Science Student @ IIT Madras | Passionate about AI/ML</h3>
+<h3 align="left">Self Taught Machine Learning Engineer</h3>
 
 ---
 
@@ -10,7 +10,7 @@
         <li>🎓 Pursuing Data Science at <strong>IIT Madras</strong></li>
         <li>🤖 Passionate about <strong>Artificial Intelligence & Machine Learning</strong></li>
         <li>🐍 Currently learning <strong>Deep Learning & NLP</strong></li>
-        <li>🚀 Scaling StartUP <a href="https://www.youtube.com/c/hyperyuva" target="_blank">HyperYuva</a> and building <strong>ROBUST ERP</strong></li>
+        <li>🚀 Scaling StartUP <a href="https://hyperyuva.tech" target="_blank">HyperYuva</a> and building <strong>ROBUST ERP</strong></li>
         <li>🎥 Tech & Gaming Content Creator at <a href="https://www.youtube.com/c/hyperyuva" target="_blank">YouTube</a> (Fun)</li>
       </ul>
     </td>
