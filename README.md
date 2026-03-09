@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Real-yash&show_icons=true&theme=dark&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Real-yash&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
-</div>
 
 ---
 
