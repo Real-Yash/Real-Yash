@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yash Patil</h1>
-<h3 align="left">Self Taught Machine Learning Engineer</h3>
+<h3 align="left">Self Taught Software Development Engineer</h3>
 
 ---
 
@@ -10,8 +10,7 @@
         <li>🎓 Pursuing Data Science at <strong>IIT Madras</strong></li>
         <li>🤖 Passionate about <strong>Artificial Intelligence & Machine Learning</strong></li>
         <li>🐍 Currently learning <strong>Deep Learning & NLP</strong></li>
-        <li>🚀 Scaling StartUP <a href="https://hyperyuva.tech" target="_blank">HyperYuva</a> and building <strong>ROBUST ERP</strong></li>
-        <li>🎥 Tech & Gaming Content Creator at <a href="https://www.youtube.com/c/hyperyuva" target="_blank">YouTube</a> (Fun)</li>
+        <li>🚀 Scaling StartUP <a href="https://hyperyuva.tech" target="_blank">HyperYuva</a> and building <strong>UdyamSuite.com</strong></li>
       </ul>
     </td>
     <td style="vertical-align: top;">
@@ -19,56 +18,6 @@
     </td>
   </tr>
 </table>
-
-
----
-
-
----
-
-### 💻 Languages & Tools
-
-#### Programming & Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:48px; margin: 4px;" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:48px; margin: 4px; margin-right:8px;" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:48px; margin: 4px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:48px; margin: 4px;" alt="HTML-5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:48px; margin: 4px;" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:48px; margin: 4px;" alt="JS" />
-</div>
-
-
-#### Tools & IDEs
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:48px; margin: 4px;" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:48px; margin: 4px;" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vim" style="height:48px; margin: 4px;" alt="Vim" />
-  <img src="https://skillicons.dev/icons?i=arch" style="height:48px; margin: 4px;" alt="Arch Linux" />
-</div>
-
-#### Web Development Stack (MERN)
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" style="height:48px; margin: 4px;" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=express" style="height:48px; margin: 4px;" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=react" style="height:48px; margin: 4px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:48px; margin: 4px;" alt="Next.js" />
-</div>
-
-#### AI/ML Toolkit
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:48px; margin: 4px;" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" style="height:48px; margin: 4px;" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" style="height:48px; margin: 4px;" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" style="height:48px; margin: 4px;" alt="scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:48px; margin: 4px;" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:48px; margin: 4px;" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:48px; margin: 4px;" alt="NumPy" />
-</div>
 
 
 
@@ -79,3 +28,42 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
 </p>
+
+
+---
+
+
+### 💻 Languages & Tools
+
+<table>
+  <tr>
+
+  <td valign="top">
+
+#### Tools & Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="48" />
+  <img src="https://skillicons.dev/icons?i=arch" height="48" />
+</div>
+
+  </td>
+  
+  <td valign="top">
+
+#### Programming Lang.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+</div>
+
+  </td>
+
+  </tr>
+</table>
+
+
+
+
+
