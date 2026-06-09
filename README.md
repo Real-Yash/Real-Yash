@@ -1,11 +1,15 @@
 
 <h1 align="left">Hi 👋, I'm Yash Patil</h1>
-<h3 align="left">Infrastructure & Systems Engineering Student</h3>
+<h3 align="left">AI/ML Student • Infrastructure Engineer • Builder</h3>
 
 ---
 
 <p align="left">
 I enjoy building and experimenting with Linux systems, networking infrastructure, self-hosted services, and low-level software projects.
+
+I build AI-powered products, infrastructure systems, and developer tools.
+Currently studying BS Data Science at IIT Madras and BTech AI/ML while building startups, SaaS products, and open-source projects.
+
 </p>
 
 <ul>
