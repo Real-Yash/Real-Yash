@@ -1,14 +1,16 @@
-
 <h1 align="left">Hi 👋, I'm Yash Patil</h1>
 <h3 align="left">AI/ML Student • Infrastructure Engineer • Builder</h3>
+Also known online as: yashbytes
 
 ---
 
 <p align="left">
+
 I enjoy building and experimenting with Linux systems, networking infrastructure, self-hosted services, and low-level software projects.
 
 I build AI-powered products, infrastructure systems, and developer tools.
-Currently studying BS Data Science at IIT Madras and BTech AI/ML while building startups, SaaS products, and open-source projects.
+
+Currently studying BS in Data Science at IIT Madras and BTech in AI/ML while exploring distributed systems, AI infrastructure, networking, and platform engineering.
 
 </p>
 
@@ -25,21 +27,24 @@ Currently studying BS Data Science at IIT Madras and BTech AI/ML while building 
 ### ⚙️ Current Focus
 
 ```txt
+AI Infrastructure
 Linux Internals
 Networking & DNS
 Infrastructure Automation
 Containers & Deployment
 System-Level Programming
-````
+```
 
 ---
 
 ### 🧩 Featured Projects
 
-* 🌐 Custom Local DNS Infrastructure & TLD Resolution
-* 🐳 Self-Hosted Containerized Services
-* 📊 Monitoring & Infrastructure Observability Stack
-* ⚡ Linux Automation & Deployment Scripts
+- 🌐 Custom Local DNS Infrastructure & TLD Resolution
+- 🐳 Self-Hosted Containerized Services
+- 📊 Monitoring & Infrastructure Observability Stack
+- ⚡ Linux Automation & Deployment Scripts
+- 🤖 AI-Powered Developer Tools & Experiments
+- 🏗️ Infrastructure-as-Code & Deployment Workflows
 
 ---
 
@@ -61,7 +66,7 @@ System-Level Programming
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
 <img src="https://skillicons.dev/icons?i=bash" height="42" />
 <img src="https://skillicons.dev/icons?i=python" height="42" />
-<img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" />
 <img src="https://skillicons.dev/icons?i=neovim" height="42" />
 
@@ -72,9 +77,31 @@ System-Level Programming
 ### 📌 Interests
 
 ```txt
-Linux • Networking • Infrastructure • DevOps • Distributed Systems
-Systems Programming • AI Infrastructure • Self Hosting
+Linux
+Networking & DNS
+Infrastructure Engineering
+DevOps & Platform Engineering
+Distributed Systems
+Systems Programming
+AI Infrastructure
+Self Hosting
+Open Source
 ```
 
+---
 
+### 🌍 Connect
 
+- Website: https://yashpatil.dev
+- LinkedIn: https://linkedin.com/in/-yashpatil
+- GitHub: https://github.com/Real-yash
+- X: https://x.com/yashbytes
+
+---
+
+### ⚡ Fun Fact
+
+```txt
+I enjoy understanding how things work under the hood —
+from Linux kernels and networking stacks to AI systems and infrastructure.
+```
