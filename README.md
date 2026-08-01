@@ -1,25 +1,25 @@
 <h1 align="left">Hi 👋, I'm Yash Patil</h1>
-<h3 align="left">AI/ML Student • Infrastructure Engineer • Builder</h3>
+<h3 align="left">Founder at UdyamSuite • Software Developer &amp; Systems Engineer • IIT Madras</h3>
+
 Also known online as: yashbytes
 
 ---
 
 <p align="left">
 
-I enjoy building and experimenting with Linux systems, networking infrastructure, self-hosted services, and low-level software projects.
+I build reliable software, Linux-based systems, infrastructure, and developer tools for practical operational problems.
 
-I build AI-powered products, infrastructure systems, and developer tools.
+As the founder of UdyamSuite, I am focused on building useful systems with a strong foundation in software engineering, networking, automation, and platform infrastructure.
 
-Currently studying BS in Data Science at IIT Madras and BTech in AI/ML while exploring distributed systems, AI infrastructure, networking, and platform engineering.
+Currently exploring distributed systems, Linux internals, networking, and systems engineering.
 
 </p>
 
 <ul>
   <li>🐧 Daily driving Arch Linux + Hyprland</li>
   <li>🌐 Exploring DNS infrastructure, networking, and self-hosting</li>
-  <li>🛠 Building infrastructure-focused projects using Linux, Docker, Bash, and Python</li>
-  <li>📚 Studying BS in Data Science at <strong>IIT Madras</strong></li>
-  <li>⚡ Interested in Platform Engineering, DevOps, Distributed Systems, and AI Infrastructure</li>
+  <li>🛠 Building software and infrastructure projects with Linux, Docker, Bash, Python, C, and C++</li>
+  <li>⚡ Founder at <strong>UdyamSuite</strong>; interested in platform engineering, DevOps, and distributed systems</li>
 </ul>
 
 ---
@@ -27,12 +27,12 @@ Currently studying BS in Data Science at IIT Madras and BTech in AI/ML while exp
 ### ⚙️ Current Focus
 
 ```txt
-AI Infrastructure
+Software Development
+Systems Engineering
 Linux Internals
 Networking & DNS
 Infrastructure Automation
 Containers & Deployment
-System-Level Programming
 ```
 
 ---
@@ -43,7 +43,7 @@ System-Level Programming
 - 🐳 Self-Hosted Containerized Services
 - 📊 Monitoring & Infrastructure Observability Stack
 - ⚡ Linux Automation & Deployment Scripts
-- 🤖 AI-Powered Developer Tools & Experiments
+- 🛠 Software Tools for Practical Operational Workflows
 - 🏗️ Infrastructure-as-Code & Deployment Workflows
 
 ---
@@ -77,14 +77,15 @@ System-Level Programming
 ### 📌 Interests
 
 ```txt
+Software Development
+Systems Engineering
 Linux
 Networking & DNS
 Infrastructure Engineering
 DevOps & Platform Engineering
 Distributed Systems
 Systems Programming
-AI Infrastructure
-Self Hosting
+Self-Hosting
 Open Source
 ```
 
@@ -103,5 +104,5 @@ Open Source
 
 ```txt
 I enjoy understanding how things work under the hood —
-from Linux kernels and networking stacks to AI systems and infrastructure.
+from Linux kernels and networking stacks to reliable software systems and infrastructure.
 ```
