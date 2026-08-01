@@ -94,7 +94,7 @@ Open Source
 ### 🌍 Connect
 
 - Website: https://yashpatil.dev
-- LinkedIn: https://linkedin.com/in/-yashpatil
+- LinkedIn: https://linkedin.com/in/yashbytes
 - GitHub: https://github.com/Real-yash
 - X: https://x.com/yashbytes
 
