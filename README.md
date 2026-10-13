@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yash Patil</h1>
-<h3 align="left">Founder at UdyamSuite • Software Developer &amp; Systems Engineer • IIT Madras</h3>
+<h3 align="left">Software Developer &amp; Applied AI Engineer</h3>
 
 Also known online as: yashbytes
 
@@ -7,19 +7,20 @@ Also known online as: yashbytes
 
 <p align="left">
 
-I build reliable software, Linux-based systems, infrastructure, and developer tools for practical operational problems.
+I build AI-powered products and the infrastructure they run on — an AI-first engineer shipping production systems, from LLMs to Linux.
 
-As the founder of UdyamSuite, I am focused on building useful systems with a strong foundation in software engineering, networking, automation, and platform infrastructure.
+Currently working on production AI features across live products. Final-year computer science student.
 
-Currently exploring distributed systems, Linux internals, networking, and systems engineering.
+Currently exploring AI agent architectures, distributed systems, Linux internals, and networking.
 
 </p>
 
 <ul>
   <li>🐧 Daily driving Arch Linux + Hyprland</li>
-  <li>🌐 Exploring DNS infrastructure, networking, and self-hosting</li>
-  <li>🛠 Building software and infrastructure projects with Linux, Docker, Bash, Python, C, and C++</li>
-  <li>⚡ Founder at <strong>UdyamSuite</strong>; interested in platform engineering, DevOps, and distributed systems</li>
+  <li>🤖 Building AI systems: RAG pipelines, AI agents with tool use, LLM integrations</li>
+  <li>🌐 Exploring networking, DNS infrastructure, and self-hosting</li>
+  <li>🛠 Building with Python, TypeScript, FastAPI, Next.js, PostgreSQL, Docker, Bash, and C</li>
+  <li>⚡ Interested in AI engineering, platform engineering, and distributed systems</li>
 </ul>
 
 ---
@@ -27,8 +28,8 @@ Currently exploring distributed systems, Linux internals, networking, and system
 ### ⚙️ Current Focus
 
 ```txt
+AI Engineering & LLM Systems
 Software Development
-Systems Engineering
 Linux Internals
 Networking & DNS
 Infrastructure Automation
@@ -39,12 +40,13 @@ Containers & Deployment
 
 ### 🧩 Featured Projects
 
-- 🌐 Custom Local DNS Infrastructure & TLD Resolution
-- 🐳 Self-Hosted Containerized Services
-- 📊 Monitoring & Infrastructure Observability Stack
-- ⚡ Linux Automation & Deployment Scripts
-- 🛠 Software Tools for Practical Operational Workflows
-- 🏗️ Infrastructure-as-Code & Deployment Workflows
+- 🤖 <a href="https://aibhai.app">AI Bhai</a>  `PRIVATE` — mobile-first consumer AI assistant. Chat Mode + task-oriented Work Mode, Hindi / Marathi / English + voice, MCP plugin ecosystem
+- 🔍 <a href="https://github.com/Real-Yash/enterprise-rag">AtlasRAG</a> — local-first enterprise RAG over PDF / TXT / Markdown with grounded answers and source citations
+- 💬 <a href="https://github.com/Real-Yash/chatapi">ChatAPI</a> — document-grounded AI agents for local businesses. Embeddable chat widget, JWT auth, dashboards
+- 🔌 <a href="https://github.com/Real-Yash/DesignMCP">DesignMCP</a> — MCP server giving AI coding agents UI inspiration. Query parsing, TTL cache, stdio transport
+- 📝 <a href="https://huggingface.co/yashbytes/T5-base-grammer-correction">Distributed T5 fine-tuning</a> — built a compute cluster from university lab computers; fine-tuned T5-base for grammar correction
+- 🐚 <a href="https://github.com/Real-Yash/MYcShell">MYcShell</a> — custom C shell for Unix + Windows. Systems programming, start to finish
+- 🌐 <a href="https://github.com/Real-Yash/my-own-internet">my-own-internet</a> — alt-root DNS infrastructure with custom TLDs. Real networking, not a toy
 
 ---
 
@@ -54,23 +56,6 @@ Containers & Deployment
   <img src="https://raw.githubusercontent.com/Real-yash/Real-yash/output/snake.svg" alt="Snake animation" />
 </p>
 
----
-
-### 💻 Languages & Tools
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" />
-<img src="https://skillicons.dev/icons?i=arch" height="42" />
-<img src="https://skillicons.dev/icons?i=docker" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
-<img src="https://skillicons.dev/icons?i=bash" height="42" />
-<img src="https://skillicons.dev/icons?i=python" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" />
-<img src="https://skillicons.dev/icons?i=neovim" height="42" />
-
-</p>
 
 ---
 
@@ -78,7 +63,7 @@ Containers & Deployment
 
 ```txt
 Software Development
-Systems Engineering
+AI Engineering & Agents
 Linux
 Networking & DNS
 Infrastructure Engineering
@@ -97,6 +82,7 @@ Open Source
 - LinkedIn: https://linkedin.com/in/yashbytes
 - GitHub: https://github.com/Real-yash
 - X: https://x.com/yashbytes
+- Email: yashpatil.cse@gmail.com
 
 ---
 
@@ -104,5 +90,5 @@ Open Source
 
 ```txt
 I enjoy understanding how things work under the hood —
-from Linux kernels and networking stacks to reliable software systems and infrastructure.
+from LLM tool-calling loops to Linux kernels and networking stacks.
 ```
